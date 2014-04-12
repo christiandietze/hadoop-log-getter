@@ -13,6 +13,7 @@ Prerequisites
 -------------
 * Hadoop >= 2.0, tested with 2.0.6-alpha
 * History Server installed and configured
+* Java 8
 * Maven for building
 
 Usage
