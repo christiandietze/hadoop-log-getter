@@ -17,6 +17,7 @@ Prerequisites
 
 Usage
 -----
+* Set your history server hostname in src/main/resources/logGetter.properties, it is assumed to be running on the standard port (19888)
 ~~~~ 
 mvn package
 java -jar target/log-getter-1.0-SNAPSHOT.jar
